@@ -13,7 +13,5 @@ npm install
 npm run build
 ```
 
-本项目github链接
 
-https://github.com/Johnson-Zheng/hippo_qb_fe
 
